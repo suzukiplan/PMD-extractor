@@ -11,7 +11,7 @@
 
 > vc++ならコマンドラインで CL /MT extract.c とか。
 
-- extract <i>PMDが含まれるファイル></i> を実行
+- extract <i>PMDが含まれるファイル</i> を実行
 - song<i>xxxx</i>.m というファイル名で一括抽出されます
 
 （補足）
